@@ -1,0 +1,4 @@
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/staticLibrary/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/staticLibrary/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/staticLibrary/build/CMakeFiles/hello_library.dir
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/staticLibrary/build/CMakeFiles/hello_binary.dir

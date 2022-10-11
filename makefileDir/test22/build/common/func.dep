@@ -1,0 +1,1 @@
+/mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/common/func.o /mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/common/func.dep : src/func.c inc/func.h

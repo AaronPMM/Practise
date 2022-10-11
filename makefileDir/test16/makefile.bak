@@ -1,0 +1,6 @@
+.PHONY : all
+
+all :
+	@echo "this is $@"
+
+include 1.mk

@@ -1,0 +1,3 @@
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/hello-headers/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/hello-headers/build/CMakeFiles/hello_headers.dir
+/mnt/hgfs/AaronLearnWorkspaces/cmakeLearn/hello-headers/build/CMakeFiles/edit_cache.dir

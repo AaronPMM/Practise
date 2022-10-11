@@ -1,0 +1,2 @@
+/mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/module/module.o /mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/module/module.dep : src/module.c inc/module.h \
+ /mnt/e/AaronLearnWorkspaces/makefileDir/test22/common/inc/func.h

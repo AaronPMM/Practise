@@ -1,0 +1,1 @@
+/mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/main/main.o /mnt/e/AaronLearnWorkspaces/makefileDir/test22/build/main/main.dep : src/main.c inc/define.h
