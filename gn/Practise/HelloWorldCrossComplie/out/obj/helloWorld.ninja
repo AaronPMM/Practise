@@ -1,0 +1,18 @@
+defines =
+include_dirs =
+cflags =
+cflags_c =
+target_out_dir = obj
+target_output_name = helloWorld
+
+build obj/helloWorld.helloWorld.o: cc ../helloWorld.c
+  source_file_part = helloWorld.c
+  source_name_part = helloWorld
+
+build helloWorld: link obj/helloWorld.helloWorld.o
+  ldflags =
+  libs =
+  frameworks =
+  swiftmodules =
+  output_extension = 
+  output_dir = .

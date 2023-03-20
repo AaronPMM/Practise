@@ -1,0 +1,4 @@
+{
+    "files" : [ "//helloWorld.c" ],
+    "test_targets" : ["//helloWorld"]
+}

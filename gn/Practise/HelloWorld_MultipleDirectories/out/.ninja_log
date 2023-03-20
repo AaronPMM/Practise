@@ -1,0 +1,5 @@
+# ninja log v5
+10	382	1678174288231498400	obj/helloworld/libhelloworldlib.helloWorld.o	d6e8be8888cb6355
+0	393	1678174288232338500	obj/helloWorld.main.o	b7d91f4c0a5bd149
+382	453	1678174288309213900	obj/helloworld/libhelloworldlib.a	150fdbc74e56b4a2
+454	708	1678174288559448600	helloWorld	4d98c7acaf5d14f9

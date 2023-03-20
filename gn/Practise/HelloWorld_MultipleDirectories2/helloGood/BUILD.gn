@@ -1,0 +1,7 @@
+source_set("helloGood_sources") {
+    sources = [
+        "helloGood/helloGood.c",
+    ]
+}
+
+

@@ -1,0 +1,15 @@
+executable("helloWorld") {
+    sources = [
+        "main.c",
+    ]
+
+    include_dirs = [
+        "//helloWorld"
+    ]
+
+    deps = [
+        "//helloworld:helloworldlib"
+    ]
+}
+
+

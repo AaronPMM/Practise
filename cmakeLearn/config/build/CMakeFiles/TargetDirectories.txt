@@ -1,3 +1,0 @@
-/mnt/e/AaronLearnWorkspaces/Practise/cmakeLearn/config/build/CMakeFiles/ConfigTest.dir
-/mnt/e/AaronLearnWorkspaces/Practise/cmakeLearn/config/build/CMakeFiles/edit_cache.dir
-/mnt/e/AaronLearnWorkspaces/Practise/cmakeLearn/config/build/CMakeFiles/rebuild_cache.dir

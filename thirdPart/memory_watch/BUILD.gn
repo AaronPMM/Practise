@@ -1,0 +1,14 @@
+executable("memwatch") {
+    sources = [
+        "main.c",
+        "memwatch.c",
+        "memwatch.h"
+    ]
+
+    defines = [ 
+        "DEBUG_HONG", 
+        "MEMWATCH",
+        "MEMWATCH_STDIO"]
+}
+
+

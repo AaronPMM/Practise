@@ -1,0 +1,18 @@
+defines =
+include_dirs =
+cflags =
+cflags_c =
+target_out_dir = obj
+target_output_name = networkCardTest
+
+build obj/networkCardTest.ioctl_networkCard.o: cc ../ioctl_networkCard.c
+  source_file_part = ioctl_networkCard.c
+  source_name_part = ioctl_networkCard
+
+build networkCardTest: link obj/networkCardTest.ioctl_networkCard.o
+  ldflags =
+  libs =
+  frameworks =
+  swiftmodules =
+  output_extension = 
+  output_dir = .

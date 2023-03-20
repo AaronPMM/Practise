@@ -1,2 +1,0 @@
-/usr/bin/ar qc libstaticLibrary.a  CMakeFiles/staticLibrary.dir/src/Hello.cpp.o
-/usr/bin/ranlib libstaticLibrary.a

@@ -1,0 +1,3 @@
+executable("networkCardTest") {
+    sources = [ "ioctl_networkCard.c" ]
+}

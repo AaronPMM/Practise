@@ -1,0 +1,15 @@
+defines =
+include_dirs =
+cflags =
+cflags_c =
+target_out_dir = obj/helloworld
+target_output_name = libhelloworldlib
+
+build obj/helloworld/libhelloworldlib.helloWorld.o: cc ../helloworld/helloWorld.c
+  source_file_part = helloWorld.c
+  source_name_part = helloWorld
+
+build obj/helloworld/libhelloworldlib.a: alink obj/helloworld/libhelloworldlib.helloWorld.o
+  arflags =
+  output_extension = .a
+  output_dir = 

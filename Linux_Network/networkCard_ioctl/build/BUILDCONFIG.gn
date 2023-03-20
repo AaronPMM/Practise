@@ -1,0 +1,4 @@
+set_default_toolchain("//build/toolchains:gcc")
+
+#选择编译平台
+target_OperatingPlatform = "80T0"

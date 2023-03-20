@@ -1,0 +1,16 @@
+
+executable("helloWorld") {
+    sources = [
+        "main.c",
+    ]
+
+    include_dirs = [
+        "//helloworld/include",
+        "//helloGood/include"
+    ]
+
+    deps = [
+        "//helloGood:helloGood_sources",
+        "//helloworld:helloWorld_sources",
+    ]
+}

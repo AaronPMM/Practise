@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CheckLink	ioctl_networkCard.c	/^int CheckLink(char *ifname) {$/;"	f
+MAX_INTERFACE	ioctl_networkCard.c	12;"	d	file:
+PRINTF_LOG	ioctl_networkCard.c	11;"	d	file:
+get_if_info	ioctl_networkCard.c	/^int get_if_info(int fd)$/;"	f
+main	ioctl_networkCard.c	/^void main(void)$/;"	f
+network_iNetowrkCardDetection	ioctl_networkCard.c	/^int network_iNetowrkCardDetection(void)$/;"	f
+port_status	ioctl_networkCard.c	/^void port_status(unsigned int flags)$/;"	f
+set_if_flags	ioctl_networkCard.c	/^int set_if_flags(char *pif_name, int sock, int status, int set)$/;"	f

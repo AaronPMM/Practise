@@ -1,0 +1,12 @@
+defines =
+include_dirs =
+cflags =
+cflags_c =
+target_out_dir = obj/helloWorld
+target_output_name = helloworldlib
+
+build obj/helloWorld/helloworldlib.helloWorld.o: cc ../helloWorld/helloWorld.c
+  source_file_part = helloWorld.c
+  source_name_part = helloWorld
+
+build obj/helloWorld/helloworldlib.stamp: stamp obj/helloWorld/helloworldlib.helloWorld.o

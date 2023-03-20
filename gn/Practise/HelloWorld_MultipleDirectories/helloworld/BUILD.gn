@@ -1,0 +1,6 @@
+static_library("helloworldlib"){
+    sources = [
+    "helloWorld.c",
+    "helloWorld.h"
+    ]
+}

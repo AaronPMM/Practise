@@ -1,0 +1,21 @@
+defines = -DDEBUG_HONG -DMEMWATCH -DMEMWATCH_STDIO
+include_dirs =
+cflags =
+cflags_c =
+target_out_dir = obj
+target_output_name = memwatch
+
+build obj/memwatch.main.o: cc ../main.c
+  source_file_part = main.c
+  source_name_part = main
+build obj/memwatch.memwatch.o: cc ../memwatch.c
+  source_file_part = memwatch.c
+  source_name_part = memwatch
+
+build memwatch: link obj/memwatch.main.o obj/memwatch.memwatch.o
+  ldflags =
+  libs =
+  frameworks =
+  swiftmodules =
+  output_extension = 
+  output_dir = .

@@ -1,0 +1,5 @@
+# ninja log v5
+1	119	1678118742283127100	obj/helloWorld.main.o	b7d91f4c0a5bd149
+9	123	1678118742284145100	obj/helloWorld/helloworldlib.helloWorld.o	52c46900b1b92f89
+123	144	1678118742314055900	obj/helloWorld/helloworldlib.stamp	e6e5b6af87b8a53e
+145	283	1678118742448479200	helloWorld	8bb111177d283c25
